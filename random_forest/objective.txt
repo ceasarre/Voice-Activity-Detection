@@ -1,0 +1,1 @@
+signal 204, noise 1895, fec 3, msc 10, over 17, nds 39

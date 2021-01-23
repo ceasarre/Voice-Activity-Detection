@@ -1,0 +1,6 @@
+Best params - :{'bootstrap': False, 'max_depth': 4, 
+'max_features': 'auto', 'min_samples_leaf': 2, 'min_samples_split': 2, 'n_estimators': 80}
+
+Train Accuracy - : 0.976
+Test Accuracy - : 0.855
+
